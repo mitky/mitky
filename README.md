@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitky
+- 👋 Hi, I’m @Dimitar
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
